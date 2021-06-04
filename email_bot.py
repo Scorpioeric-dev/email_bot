@@ -8,6 +8,7 @@
 
 # -------------------- New Code
 # Slow bot but can be worked on to assist in email dictation & expedite work flow
+# First email project
 # Install pip speech recognition
 # Install pyAudio
 # Install pyttsx3
